@@ -1,7 +1,7 @@
 #Exercício 1
 
 s = 0
-for x in range(0,333,3):
+for x in range(3,334,3):
     s = s + x
 print ("A soma S = 3 + 6 + 9 + ... + 333 é: ", s)
 print("\n")
@@ -19,7 +19,6 @@ print("\nMédia dos alunos: ", media)
 print("\n")
 
 #Exercício 3
-
 
 num = int(input("Digite um número de 1 a 10: "))
 print("\n")
