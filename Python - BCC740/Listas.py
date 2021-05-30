@@ -11,3 +11,6 @@ print("Lista em ordem crescente: ", L)
 
 L.reverse()
 print("Lista em ordem decrescente: ", L)
+
+L1 = list(range(0,50,3))
+print("\n\nMúltiplos de 3 entre 1 e 50: ", L1)
